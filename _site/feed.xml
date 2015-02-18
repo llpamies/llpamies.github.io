@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lluis Pamies-Juarez</title>
+    <description>Personal Website
+</description>
+    <link>http://lluis.pamies.cat/</link>
+    <atom:link href="http://lluis.pamies.cat/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Feb 2015 20:55:22 -0800</pubDate>
+    <lastBuildDate>Tue, 17 Feb 2015 20:55:22 -0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>

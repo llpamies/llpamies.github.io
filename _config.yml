@@ -1,0 +1,12 @@
+# Site settings
+title: Lluis Pamies-Juarez
+email: lluis@pamies.cat
+description: > # this means to ignore newlines until "baseurl:"
+  Personal Website
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://lluis.pamies.cat" # the base hostname & protocol for your site
+twitter_username: llpamies
+github_username:  llpamies
+
+# Build settings
+markdown: kramdown
